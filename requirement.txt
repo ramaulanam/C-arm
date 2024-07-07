@@ -1,0 +1,14 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
+distlib==0.3.8
+filelock==3.13.1
+idna==3.6
+lxml==4.9.3
+platformdirs==4.1.0
+pysimple==0.1.9
+PySimpleGUI==4.60.5
+requests==2.31.0
+urllib3==2.1.0
+virtualenv==20.25.0
